@@ -1,0 +1,2 @@
+The dataset used in the following paper:
+Shi, J.-Y., Huang, H, Zhang, Y.-N., Yiu, S-M. Predicting Human Microbe-Disease Associations via Binary Matrix Completion. In Cai, Z.P., Daescu, O. Li, M,  editors. Lecture Notes in Bioinformatics, Springer, vol. 10330. 2017. p. XV-XVI.
